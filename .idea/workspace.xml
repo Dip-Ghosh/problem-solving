@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="289b9099-a7cc-4199-bee6-4443d4d788bd" name="Changes" comment="" />
+    <list default="true" id="289b9099-a7cc-4199-bee6-4443d4d788bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +53,22 @@
       <option name="presentableId" value="Default" />
       <updated>1654506168478</updated>
       <workItem from="1654506169664" duration="1201000" />
-      <workItem from="1654511881131" duration="1006000" />
+      <workItem from="1654511881131" duration="1388000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
