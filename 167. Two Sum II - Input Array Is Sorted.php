@@ -11,21 +11,22 @@ function twoSum($numbers, $target) {
     $count = count($numbers);
     $data = [];
     $num = $numbers;
+    $found = false;
+    if($count ==0 || $count == 1)
+        return null;
 
     for($i=0; $i < $count-1; $i++){
-
-        $find = $target - $num[$i];
         for($j = $i+1 ; $j<$count; $j++){
-             if($num[$j] === $find){
-                      $data[] =$i + 1 ;
-                      $data[] =$j + 1;
-                 return $data;
-
-            }elseif($num[$j] >$find){
+             if($numbers[$j] + $numbers[$i] === $target){
+                 $data[]  = $i+1;
+                 $data[] = $j+1;
+                 $found = true;
                  break;
-             }
+            }
         }
+        if($found) break;
 
     }
+    return $data;
 }
 }
