@@ -1,4 +1,9 @@
 class Solution {
+
+
+	protected $casts = [
+
+	];
 public:
     int mySqrt(int x) {
       
