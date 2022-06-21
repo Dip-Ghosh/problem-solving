@@ -8,7 +8,7 @@ class Solution {
 function search($nums, $target) {
 
   $l = 0;
-  $r = count($nums);
+  $r = count($nums)-1;
 
   while($l <= $r)
   {
