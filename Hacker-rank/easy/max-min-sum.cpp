@@ -17,7 +17,7 @@ void miniMaxSum(vector<int> &arr) {
 sort(arr.begin(),arr.end());
 
 int count = arr.size();
-int max=0,min=0;
+long max=0,min=0;
 
 for(int i=0; i< 4;i++){    
 
