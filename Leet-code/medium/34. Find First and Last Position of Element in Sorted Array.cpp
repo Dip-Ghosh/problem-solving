@@ -8,6 +8,7 @@ public:
          return result;
     }
   
+  //first part search
     int findFirst(vector<int>& nums, int target)
     {
          
@@ -30,11 +31,12 @@ public:
     return ans;
     }
   
-     int findLast(vector<int>& nums, int target)
+  //second part search
+    int findLast(vector<int>& nums, int target)
     {
          
   
-    int ans   = -1;
+    int res   = -1;
     int left  = 0;
     int right = nums.size() - 1;
        
@@ -53,7 +55,6 @@ public:
        return ans;
 
      }
- 
  
 };
 
