@@ -5,3 +5,6 @@ SET
         WHEN 'm' THEN 'f'
         ELSE 'm'
     END;
+
+    #Approach 2
+    UPDATE Salary SET sex = IF(sex = 'f', 'm', 'f');
