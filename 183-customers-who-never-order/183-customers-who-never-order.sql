@@ -2,13 +2,13 @@
 
 #Approach 1
 
-# select c.name as Customers
-# from Customers c
-# left join orders o on c.id = o.customerId
-# where o.customerId IS NULL
+select c.name as Customers
+from Customers c
+left join orders o on c.id = o.customerId
+where o.customerId IS NULL
 
 #Approach 2
 
-select name as Customers 
-from Customers
-where id not in ( Select customerId from Orders)
+# select name as Customers 
+# from Customers
+# where id not in ( Select customerId from Orders)
