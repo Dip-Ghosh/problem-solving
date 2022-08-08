@@ -1,3 +1,4 @@
+
 select Score,
 (select count(distinct Score) from Scores where Score >= s.Score)
 as Rank
