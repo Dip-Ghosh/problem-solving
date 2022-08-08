@@ -1,9 +1,5 @@
-/* Write your T-SQL query statement below */
-select 
-    a.score Score,
-    (select 
-        count(distinct b.score)+1 
-     from scores b 
-     where a.score < b.score) Rank 
-from scores a 
-order by a.score desc;
+select Score,
+(select count(distinct Score) from Scores where Score >= s.Score)
+as Rank
+from Scores as s
+order by Score desc;
