@@ -8,3 +8,5 @@ where (e.departmentId,e.salary) in (
     select departmentId, max(salary) from Employee group By departmentId
 )
 
+
+
