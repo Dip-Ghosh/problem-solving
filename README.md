@@ -9,6 +9,7 @@
   - ***Series AP*** Given the first 2 terms A1 and A2 of an Arithmetic Series.Find the Nth term of the series.
   - ***Print the pattern | Set-1*** You are given a number N. You need to print the pattern for the given value of N.
   - ***Print 1 To N Without Loop*** Print numbers from 1 to N without the help of loops.
+  - ***Arrays (Sum of array)*** Given an array of N integers. Your task is to print the sum of all of the integers.
   
    ### Basic Problems
   
