@@ -10,6 +10,7 @@
   - ***Print the pattern | Set-1*** You are given a number N. You need to print the pattern for the given value of N.
   - ***Print 1 To N Without Loop*** Print numbers from 1 to N without the help of loops.
   - ***Arrays (Sum of array)*** Given an array of N integers. Your task is to print the sum of all of the integers.
+  - ***Find the median*** Given an array arr[] of N integers, calculate the median
   
    ### Basic Problems
   
