@@ -8,6 +8,7 @@
   - ***Palindromic Array*** Given a Integer array A[] of n elements. Your task is to complete the function PalinArray. Which will return 1 if all the elements of the Array are palindrome otherwise it will return 0.
   - ***Series AP*** Given the first 2 terms A1 and A2 of an Arithmetic Series.Find the Nth term of the series.
   - ***Print the pattern | Set-1*** You are given a number N. You need to print the pattern for the given value of N.
+  - ***Print 1 To N Without Loop*** Print numbers from 1 to N without the help of loops.
   
    ### Basic Problems
   
