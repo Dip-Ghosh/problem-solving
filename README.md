@@ -11,6 +11,7 @@
   - ***Print 1 To N Without Loop*** Print numbers from 1 to N without the help of loops.
   - ***Arrays (Sum of array)*** Given an array of N integers. Your task is to print the sum of all of the integers.
   - ***Find the median*** Given an array arr[] of N integers, calculate the median
+  - ***Perfect Arrays*** Given an array of size N and you have to tell whether the array is perfect or not. An array is said to be perfect if it's reverse array matches the original array. If the array is perfect then print "PERFECT" else print "NOT PERFECT".
   
    ### Basic Problems
   
