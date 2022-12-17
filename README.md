@@ -19,6 +19,7 @@
   ### Easy Problems
   -  175.Combine Two Tables
   -  176.Second Highest Salary
+  -  177.Nth Highest Salary
   ### Medium Problems
   ### Hard Problems
   
