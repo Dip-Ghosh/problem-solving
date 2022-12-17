@@ -17,17 +17,17 @@
   
   ## Leet Code
   ### Easy Problems
-  ##Database
+  #### Database
   -  175.Combine Two Tables
   -  176.Second Highest Salary
   
   
   ### Medium Problems
-  ##Database
+  #### Database
   - 177.Nth Highest Salary
   - 178.Rank Scores
   
   
   ### Hard Problems
-  ##Database
+  #### Database
   
