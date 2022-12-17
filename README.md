@@ -18,6 +18,7 @@
   ## Leet Code
   ### Easy Problems
   -  175.Combine Two Tables
+  -  176.Second Highest Salary
   ### Medium Problems
   ### Hard Problems
   
