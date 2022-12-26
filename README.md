@@ -20,13 +20,16 @@
   #### Database
   -  175.Combine Two Tables
   -  176.Second Highest Salary
+  -  595.Big Countries
+  -  1757.Recyclable and Low Fat Products
+
   
   
   ### Medium Problems
   #### Database
   - 177.Nth Highest Salary
   - 178.Rank Scores
-  - 595.Big Countries
+ 
   
   
   ### Hard Problems
