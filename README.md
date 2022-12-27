@@ -21,6 +21,7 @@
   -  175.Combine Two Tables
   -  176.Second Highest Salary
   -  183.Customers Who Never Order
+  -  196.Delete Duplicate Emails
   -  584.Find Customer Referee
   -  595.Big Countries
   -  627.Swap Salary
