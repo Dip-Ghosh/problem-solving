@@ -30,6 +30,8 @@
   -  1667.Fix Names in a Table
   -  1757.Recyclable and Low Fat Products
   -  1873.Calculate Special Bonus
+  -  1890.The Latest Login in 2020
+
 
   
   
