@@ -25,6 +25,7 @@
   -  584.Find Customer Referee
   -  595.Big Countries
   -  627.Swap Salary
+  -  1667.Fix Names in a Table
   -  1757.Recyclable and Low Fat Products
   -  1873.Calculate Special Bonus
 
