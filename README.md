@@ -24,14 +24,18 @@
   -  584.Find Customer Referee
   -  595.Big Countries
   -  627.Swap Salary
+  -  1148.Article Views I
   -  1484.Group Sold Products By The Date
   -  1527.Patients With a Condition
+  -  1581.Customer Who Visited but Did Not Make Any Transactions
   -  1667.Fix Names in a Table
   -  1757.Recyclable and Low Fat Products
   -  1795.Rearrange Products Table
   -  1873.Calculate Special Bonus
   -  1890.The Latest Login in 2020
   -  1965.Employees With Missing Information
+  
+
 
   ### Medium Problems
   #### Database
