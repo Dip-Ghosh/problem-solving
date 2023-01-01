@@ -8,6 +8,7 @@
   |`175.Combine Two Tables`| `176.Second Highest Salary` | ``|
   |`183.Customers Who Never Order`| `177.Nth Highest Salary` | ``|
   |`196.Delete Duplicate Emails`| `178.Rank Scores` | ``|
+  |`197. Rising Temperature`|||
   |`584.Find Customer Referee` | `608.Tree Node` | ``|
   |`595.Big Countries` | `` | ``|
   |`627.Swap Salary` | `` | ``|
