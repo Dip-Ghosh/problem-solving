@@ -20,6 +20,7 @@
   |`1581.Customer Who Visited but Did Not Make Any Transactions` | `` | ``|
   |`1693. Daily Leads and Partners`|||
   |`1667.Fix Names in a Table` | `` | ``|
+  |`1729. Find Followers Count`|||
   |`1757.Recyclable and Low Fat Products` | `` | ``|
   |`1795.Rearrange Products Table` | `` | ``|
   |`1873.Calculate Special Bonus`| `` | ``|
