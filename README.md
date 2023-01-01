@@ -13,6 +13,7 @@
   |`595.Big Countries` | `` | ``|
   |`607. Sales Person`|||
   |`627.Swap Salary` | `` | ``|
+  |`1141. User Activity for the Past 30 Days I`|||
   |`1148.Article Views I `| `` | ``|
   |`1484.Group Sold Products By The Date`| `` | ``|
   |`1527.Patients With a Condition `| `` | ``|
