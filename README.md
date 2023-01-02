@@ -10,6 +10,7 @@
   |`196.Delete Duplicate Emails`| `178.Rank Scores` | ``|
   |`197. Rising Temperature`|||
   |`584.Find Customer Referee` | `608.Tree Node` | ``|
+  |`586. Customer Placing the Largest Number of Orders`|||
   |`595.Big Countries` | `` | ``|
   |`607. Sales Person`|||
   |`627.Swap Salary` | `` | ``|
