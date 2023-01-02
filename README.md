@@ -23,6 +23,7 @@
   |`1693. Daily Leads and Partners`|||
   |`1667.Fix Names in a Table` | `` | ``|
   |`1729. Find Followers Count`|||
+  |`1741. Find Total Time Spent by Each Employee`|||
   |`1757.Recyclable and Low Fat Products` | `` | ``|
   |`1795.Rearrange Products Table` | `` | ``|
   |`1873.Calculate Special Bonus`| `` | ``|
