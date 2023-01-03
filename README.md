@@ -8,7 +8,7 @@
   |`175.Combine Two Tables`| `176.Second Highest Salary` | ``|
   |`183.Customers Who Never Order`| `177.Nth Highest Salary` | ``|
   |`196.Delete Duplicate Emails`| `178.Rank Scores` | ``|
-  |`197. Rising Temperature`|||
+  |`197. Rising Temperature`|`1393.Capital Gain/Loss`||
   |`511. Game Play Analysis I`|||
   |`584.Find Customer Referee` | `608.Tree Node` | ``|
   |`586. Customer Placing the Largest Number of Orders`|||
