@@ -17,6 +17,7 @@
   |`627.Swap Salary` | `` | ``|
   |`1141. User Activity for the Past 30 Days I`|||
   |`1148.Article Views I `| `` | ``|
+  |`1407. Top Travellers`|||
   |`1484.Group Sold Products By The Date`| `` | ``|
   |`1527.Patients With a Condition `| `` | ``|
   |`1581.Customer Who Visited but Did Not Make Any Transactions` | `` | ``|
@@ -29,7 +30,7 @@
   |`1873.Calculate Special Bonus`| `` | ``|
   |`1890.The Latest Login in 2020`| `` | ``|
   |`1965.Employees With Missing Information`| `` | ``|
-  |`1407. Top Travellers`|||
+  
   
          
 
