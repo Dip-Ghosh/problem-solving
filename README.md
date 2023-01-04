@@ -4,7 +4,7 @@
  ### Database Problems
  
   |Easy|Medium|Hard|
-  | :------------ |   :-----------:       | --------: |
+  | :------------ |   :-----------       | -------- |
   |`175.Combine Two Tables`| `176.Second Highest Salary` | ``|
   |`182. Duplicate Emails`|||
   |`183.Customers Who Never Order`| `177.Nth Highest Salary` | ``|
