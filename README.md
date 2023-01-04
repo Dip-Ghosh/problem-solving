@@ -6,6 +6,7 @@
   |Easy|Medium|Hard|
   | :------------ |   :-----------:       | --------: |
   |`175.Combine Two Tables`| `176.Second Highest Salary` | ``|
+  |`182. Duplicate Emails`|||
   |`183.Customers Who Never Order`| `177.Nth Highest Salary` | ``|
   |`196.Delete Duplicate Emails`| `178.Rank Scores` | ``|
   |`197. Rising Temperature`|`1393.Capital Gain/Loss`||
