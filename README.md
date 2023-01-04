@@ -47,15 +47,15 @@
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
  | :---- |   :--- | :--- | :--- | :--- |
- |`Second Largest Given an array Arr of size N, print second largest distinct element from an array`| `` | ``| `` | `` |
- |`Value equal to index value Given an array Arr of N positive integers. Your task is to find the elements whose value is equal to that of its index value ( Consider 1-based indexing )`| `` | ``| `` | `` |
- |`Print alternate elements of an array You are given an array A of size N. You need to print elements of A in alternate order (starting from index 0)`| `` | ``| `` | `` |
- |`Sum of Series Write a program to find the sum of the given series 1+2+3+ . . . . . .(N terms) `| `` | ``| `` | `` |
- |`Palindromic Array Given a Integer array A[] of n elements. Your task is to complete the function PalinArray. Which will return 1 if all the elements of the Array are palindrome otherwise it will return 0`| `` | ``| `` | `` |
- |`Print 1 To N Without Loop Print numbers from 1 to N without the help of loops`| `` | ``| `` | `` |
- |`Arrays (Sum of array) Given an array of N integers. Your task is to print the sum of all of the integers`| `` | ``| `` | `` |
- |`Perfect Arrays Given an array of size N and you have to tell whether the array is perfect or not. An array is said to be perfect if it's reverse array matches the original array. If the array is perfect then print "PERFECT" else print "NOT PERFECT".`| `` | ``| `` | `` |
- |`Find the median Given an array arr[] of N integers, calculate the median`| `` | ``| `` | `` |
+ |`Second Largest Given an array Arr of size N, print second largest distinct element from an array`|||||
+ |`Value equal to index value Given an array Arr of N positive integers. Your task is to find the elements whose value is equal to that of its index value ( Consider 1-based indexing )`|||||
+ |`Print alternate elements of an array You are given an array A of size N. You need to print elements of A in alternate order (starting from index 0)`|||||
+ |`Sum of Series Write a program to find the sum of the given series 1+2+3+ . . . . . .(N terms) `|||||
+ |`Palindromic Array Given a Integer array A[] of n elements. Your task is to complete the function PalinArray. Which will return 1 if all the elements of the Array are palindrome otherwise it will return 0`|||||
+ |`Print 1 To N Without Loop Print numbers from 1 to N without the help of loops`|||||
+ |`Arrays (Sum of array) Given an array of N integers. Your task is to print the sum of all of the integers`|||||
+ |`Perfect Arrays Given an array of size N and you have to tell whether the array is perfect or not. An array is said to be perfect if it's reverse array matches the original array. If the array is perfect then print "PERFECT" else print "NOT PERFECT".`|||||
+ |`Find the median Given an array arr[] of N integers, calculate the median`|||||
 
  
 
