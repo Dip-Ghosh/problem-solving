@@ -23,6 +23,7 @@
   |`1484.Group Sold Products By The Date`| `` | ``|
   |`1527.Patients With a Condition `| `` | ``|
   |`1581.Customer Who Visited but Did Not Make Any Transactions` | `` | ``|
+  |`1587. Bank Account Summary II`|||
   |`1693. Daily Leads and Partners`|||
   |`1667.Fix Names in a Table` | `` | ``|
   |`1729. Find Followers Count`|||
