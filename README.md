@@ -56,6 +56,7 @@
  |`Arrays (Sum of array)`|||||
  |`Perfect Arrays`|||||
  |`Find the median`|||||
+ |`Armstrong Numbers`|||||
 
  
 
