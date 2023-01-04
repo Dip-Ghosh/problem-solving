@@ -53,7 +53,6 @@
  |`Sum of Series`|||||
  |`Palindromic Array`|||||
  |`Print 1 To N Without Loop`|||||
- |`Arrays (Sum of array)`|||||
  |`Perfect Arrays`|||||
  |`Find the median`|||||
  |`Armstrong Numbers`|||||
