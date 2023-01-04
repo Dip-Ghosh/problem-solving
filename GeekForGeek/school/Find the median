@@ -1,5 +1,3 @@
-Given an array arr[] of N integers, calculate the median
-
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
@@ -11,14 +9,19 @@ public:
 	public:
 		int find_median(vector<int> v)
 		{
-		    // Code here.
-		   int n = v.size();
-		   
-		   int midIndex = (n+1)/2;
-		   
-		   return v[midIndex];
-		  
+		    int n = v.size();
+		    
+		    sort(v.begin(), v.end());
 		 
+		  
+		    if (n%2 !=0) {
+		        return v[n/2];
+		    }
+		    
+		    int mid = n/2;
+		    return (v[mid] + v[mid-1])/2;
+		    
+		
 		}
 };
 
