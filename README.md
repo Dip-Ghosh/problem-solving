@@ -16,6 +16,7 @@
   |`595.Big Countries` | `` | ``|
   |`607. Sales Person`|||
   |`627.Swap Salary` | `` | ``|
+  |`1050. Actors and Directors Who Cooperated At Least Three Times`|||
   |`1141. User Activity for the Past 30 Days I`|||
   |`1148.Article Views I `| `` | ``|
   |`1407. Top Travellers`|||
