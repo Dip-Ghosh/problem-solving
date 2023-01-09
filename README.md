@@ -60,3 +60,4 @@
  |`Check for Binary`|||||
  |`Count of smaller elements`|||||
  |`Find Index`|||||
+ |`Print Elements of Array`|||||
