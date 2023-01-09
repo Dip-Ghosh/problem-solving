@@ -58,3 +58,4 @@
  |`Armstrong Numbers`|||||
  |`Sum of Array`|||||
  |`Check for Binary`|||||
+ |`Count of smaller elements`|||||
