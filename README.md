@@ -41,7 +41,9 @@
 
   #### Data Strucre and Algorithm
   |Easy|Medium|Hard|
-  | :------------ |   :-----------       | :-------- |
+  | :------------ |   :-----------  | :-------- |
+  |`217. Contains Duplicate(FAANG)`|||
+  |`217. Contains Duplicate`|||
  
 
  ## Geek For Geeks
@@ -63,4 +65,5 @@
  |`Print Elements of Array`|||||
  |`At least two greater elements (Amazon)`|||||
  |`Fascinating Number`|||||
+ |`Compete the skills`|||||
 
