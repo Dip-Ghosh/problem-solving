@@ -1,10 +1,21 @@
 # Problem-solving
+
+## FAANG Companies Questions
+
+|Problems|Company Name|
+| :------| :----------|
+
+|`At least two greater elements`|`Amazon`|
+|`Value equal to index value`|`Amazon``FactSet``Hike``Flipkart`|
+|`Second Largest`|`RockstandSAP``Labs`|
+
   ## Leet Code
- 
+
  ### Database Problems
  
   |Easy|Medium|Hard|
   | :------------ | :----------- | :-------- |
+
   |`175.Combine Two Tables`| `176.Second Highest Salary` |  |
   |`182. Duplicate Emails`|||
   |`183.Customers Who Never Order`| `177.Nth Highest Salary` |  |
@@ -42,15 +53,16 @@
   #### Data Strucre and Algorithm
   |Easy|Medium|Hard|
   | :------------ |   :-----------  | :-------- |
+
   |`217. Contains Duplicate(FAANG)`|||
   |`217. Contains Duplicate`|||
  
 
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
+
  | :---- |   :--- | :--- | :--- | :--- |
- |`Second Largest`|||||
- |`Value equal to index value`|||||
+
  |`Print alternate elements of an array`|||||
  |`Sum of Series`|||||
  |`Palindromic Array`|||||
@@ -63,7 +75,7 @@
  |`Count of smaller elements`|||||
  |`Find Index`|||||
  |`Print Elements of Array`|||||
- |`At least two greater elements (Amazon)`|||||
  |`Fascinating Number`|||||
  |`Compete the skills`|||||
+
 
