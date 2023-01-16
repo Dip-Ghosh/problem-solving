@@ -53,6 +53,7 @@
   | :------------ |   :-----------  | :-------- |
   |`217. Contains Duplicate(FAANG)`|||
   |`217. Contains Duplicate`|||
+  |`268. Missing Number(FAANG)`|||
  
 
  ## Geek For Geeks
