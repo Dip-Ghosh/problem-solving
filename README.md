@@ -58,7 +58,6 @@
 
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
-
  | :---- |   :--- | :--- | :--- | :--- |
  |`Print alternate elements of an array`|||||
  |`Sum of Series`|||||
