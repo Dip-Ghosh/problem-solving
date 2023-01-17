@@ -75,5 +75,6 @@
  |`Fascinating Number`|||||
  |`Compete the skills`|||||
  |`Swap kth elements`|||||
+ |`Average in a stream`|||||
 
 
