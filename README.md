@@ -54,6 +54,7 @@
   |`217. Contains Duplicate(FAANG)`|||
   |`217. Contains Duplicate`|||
   |`268. Missing Number(FAANG)`|||
+  |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
  
 
  ## Geek For Geeks
@@ -73,5 +74,6 @@
  |`Print Elements of Array`|||||
  |`Fascinating Number`|||||
  |`Compete the skills`|||||
+ |`Swap kth elements`|||||
 
 
