@@ -2,13 +2,14 @@
 
 ## FAANG Companies Questions
 
-|Problems| Company Name                                   |
-| :------|:-----------------------------------------------|
-|`At least two greater elements`| `Amazon`                                       |
-|`Value equal to index value`| `Amazon` `FactSet` `Hike` `Flipkart`           |
-|`Second Largest`| `RockstandSAP` `Labs`                          |
- |`Missing number in array`| `flipKard`,`Amazon`,`microsoft`,`visa`,`cisco` |
- |`Wave Array`| `flipKard`,`Amazon`,`microsoft`,`Google`,`PTM`  |
+| Problems                        | Company Name                                 |
+|:--------------------------------|:---------------------------------------------|
+| `At least two greater elements` | `Amazon`                                     |
+| `Value equal to index value`    | `Amazon` `FactSet` `Hike` `Flipkart`         |
+| `Second Largest`                | `RockstandSAP` `Labs`                        |
+ | `Missing number in array`       | `flipKard`,`Amazon`,`microsoft`,`visa`,`cisco` |
+ | `Wave Array`                    | `flipKard`,`Amazon`,`microsoft`,`Google`,`PTM` |
+ | `Bitonic Point`                 | `flipKard`,`Amazon`,`microsoft` |
 
   ## Leet Code
 
@@ -60,7 +61,7 @@
  | :---- |   :--- | :--- | :--- | :--- |
  |`Print alternate elements of an array`|`Search an Element in an array`|`Missing number in array`|||
  |`Sum of Series`||`Wave Array`|||
- |`Palindromic Array`|||||
+ |`Palindromic Array`||`Bitonic Point`|||
  |`Print 1 To N Without Loop`|||||
  |`Perfect Arrays`|||||
  |`Find the median`|||||
