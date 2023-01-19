@@ -2,11 +2,12 @@
 
 ## FAANG Companies Questions
 
-|Problems| Company Name         |
-| :------|:---------------------|
-|`At least two greater elements`| `Amazon`             |
-|`Value equal to index value`| `Amazon` `FactSet` `Hike` `Flipkart` |
-|`Second Largest`| `RockstandSAP` `Labs`|
+|Problems| Company Name                                   |
+| :------|:-----------------------------------------------|
+|`At least two greater elements`| `Amazon`                                       |
+|`Value equal to index value`| `Amazon` `FactSet` `Hike` `Flipkart`           |
+|`Second Largest`| `RockstandSAP` `Labs`                          |
+ |`Missing number in array`| `flipcard`,`Amazon`,`microsoft`,`visa`,`cisco` |
 
   ## Leet Code
 
