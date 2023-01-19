@@ -7,7 +7,8 @@
 |`At least two greater elements`| `Amazon`                                       |
 |`Value equal to index value`| `Amazon` `FactSet` `Hike` `Flipkart`           |
 |`Second Largest`| `RockstandSAP` `Labs`                          |
- |`Missing number in array`| `flipcard`,`Amazon`,`microsoft`,`visa`,`cisco` |
+ |`Missing number in array`| `flipKard`,`Amazon`,`microsoft`,`visa`,`cisco` |
+ |`Wave Array`| `flipKard`,`Amazon`,`microsoft`,`Google`,`PTM`  |
 
   ## Leet Code
 
@@ -58,7 +59,7 @@
  |School|Basic|Easy|Medium|Hard|
  | :---- |   :--- | :--- | :--- | :--- |
  |`Print alternate elements of an array`|`Search an Element in an array`|`Missing number in array`|||
- |`Sum of Series`|||||
+ |`Sum of Series`|`Wave Array`||||
  |`Palindromic Array`|||||
  |`Print 1 To N Without Loop`|||||
  |`Perfect Arrays`|||||
