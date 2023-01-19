@@ -19,6 +19,7 @@
   |`175.Combine Two Tables`| `176.Second Highest Salary` ||     |
   |`182. Duplicate Emails`|`177.Nth Highest Salary` ||     |
   |`183.Customers Who Never Order`|`178.Rank Scores`||     |
+  |``|`180. Consecutive Numbers`|||
   |`196.Delete Duplicate Emails`|`608.Tree Node`||     |
   |`197. Rising Temperature`|`1393.Capital Gain/Loss`||     |
   |`511. Game Play Analysis I`| `1158. Market Analysis I` ||     |
