@@ -59,7 +59,7 @@
  |School|Basic|Easy|Medium|Hard|
  | :---- |   :--- | :--- | :--- | :--- |
  |`Print alternate elements of an array`|`Search an Element in an array`|`Missing number in array`|||
- |`Sum of Series`|`Wave Array`||||
+ |`Sum of Series`||`Wave Array`|||
  |`Palindromic Array`|||||
  |`Print 1 To N Without Loop`|||||
  |`Perfect Arrays`|||||
