@@ -52,7 +52,6 @@
   |`217. Contains Duplicate`|||
   |`268. Missing Number(FAANG)`|||
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
- 
 
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
