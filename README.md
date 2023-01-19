@@ -56,7 +56,7 @@
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
  | :---- |   :--- | :--- | :--- | :--- |
- |`Print alternate elements of an array`|`Search an Element in an array`||||
+ |`Print alternate elements of an array`|`Search an Element in an array`|`Missing number in array`|||
  |`Sum of Series`|||||
  |`Palindromic Array`|||||
  |`Print 1 To N Without Loop`|||||
