@@ -62,7 +62,7 @@
  |`Print alternate elements of an array`| `Search an Element in an array`      | `Missing number in array` |||
  |`Sum of Series`|| `Wave Array`                         |||
  |`Palindromic Array`|| `Bitonic Point`                      |||
- |`Print 1 To N Without Loop`|||||
+ |`Print 1 To N Without Loop`|`Binary Search`||||
  |`Perfect Arrays`|||||
  |`Find the median`|||||
  |`Armstrong Numbers`|||||
