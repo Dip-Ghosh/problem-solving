@@ -53,6 +53,7 @@
   |`268. Missing Number(FAANG)`|||
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
   |`1920. Build Array from Permutation`|||
+  |`1929. Concatenation of Array`|||
 
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
