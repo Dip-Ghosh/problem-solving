@@ -13,7 +13,6 @@
 ## Leet Code
 
 ### Database Problems
-
   |Easy|Medium| Hard |
   |:-----------------|:-----|:---------|
   |`175.Combine Two Tables`| `176.Second Highest Salary` ||     |     |
@@ -90,6 +89,5 @@
  | Medium |
  |:------|
 
-
-| Hard |
+ | Hard |
  |:------|
