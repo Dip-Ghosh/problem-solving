@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int differenceOfSum(vector<int>& nums) {
+
+        int size = nums.size();
+        int digitSum = 0;
+        int numberSum = 0;
+
+        for(int i=0; i< size; i++) {
+            int num = nums[i];
+            numberSum += num;
+
+            while(num) {
+                 digitSum += (num % 10);
+                 num  = num/10;
+            }
+        }
+        return abs(digitSum - numberSum);
+
+
+    }
+};
