@@ -1,15 +1,15 @@
 # Problem-solving
 
-## FAANG Companies Questions
+#### FAANG Companies Questions
 |Problems| Company Name         |
 | :------|:---------------------|
 |`At least two greater elements`| `Amazon`             |
 |`Value equal to index value`| `Amazon` `FactSet` `Hike` `Flipkart` |
 |`Second Largest`| `RockstandSAP` `Labs`|
 
-  ## Leet Code
+## Leet Code
 
- ### Database Problems
+#### Database Problems
   |Easy|Medium|Hard|
   | :------------ | :----------- | :-------- |
   |`175.Combine Two Tables`| `176.Second Highest Salary` |  |
@@ -43,7 +43,7 @@
   |`1965.Employees With Missing Information`|   |  |
   
 
-  #### Data Strucre and Algorithm
+#### Data Strucre and Algorithm
   |Easy|Medium|Hard|
   | :------------ |   :-----------  | :-------- |
   |`217. Contains Duplicate(FAANG)`|||
@@ -53,7 +53,7 @@
   |`1920. Build Array from Permutation`|||
   |`1929. Concatenation of Array`|||
 
- ## Geek For Geeks
+#### Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
  | :---- |   :--- | :--- | :--- | :--- |
  |`Print alternate elements of an array`|||||
