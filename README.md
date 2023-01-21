@@ -10,9 +10,10 @@
  | `Wave Array`                    | `flipKard`,`Amazon`,`microsoft`,`Google`,`PTM` |
  | `Bitonic Point`                 | `flipKard`,`Amazon`,`microsoft`                |
 
-## Leet Code
+## LeetCode
 
 ### Database Problems
+
   |Easy|Medium| Hard |
   |:-----------------|:-----|:---------|
   |`175.Combine Two Tables`| `176.Second Highest Salary` ||     |     |
@@ -46,32 +47,48 @@
   |`1890.The Latest Login in 2020`|||     |     |     |     |
   |`1965.Employees With Missing Information`|||     |     |     |     |
 
-#### Data Structure and Algorithm
+#### Data Strucre and Algorithm
+
   |Easy|Medium|Hard|
   |:-----|:-----|:---|
-  |`217. Contains Duplicate(FAANG)`|||     |     |
-  |`217. Contains Duplicate`|||     |     |
-  |`268. Missing Number(FAANG)`|||     |     |
-  |`448. Find All Numbers Disappeared in an Array(FAANG)`|||     |     |
+  |`217. Contains Duplicate(FAANG)`|||
+  |`217. Contains Duplicate`|||
+  |`268. Missing Number(FAANG)`|||
+  |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
 
-## Geek For Geeks
- |School| Basic                               | Easy                      |Medium| Hard |
- |:------------------------------------|:----|:-----|:-----|:-----|
- |`Print alternate elements of an array`| `Search an Element in an array`     | `Missing number in array` |||     |     |
- |`Sum of Series`|| `Wave Array`                        |||     |     |     |
- |`Palindromic Array`|| `Bitonic Point`                     |||     |     |     |
- |`Print 1 To N Without Loop`|||||     |     |     |     |
- |`Perfect Arrays`|||||     |     |     |     |
- |`Find the median`|||||     |     |     |     |
- |`Armstrong Numbers`|||||     |     |     |     |
- |`Sum of Array`|||||     |     |     |     |
- |`Check for Binary`|||||     |     |     |     |
- |`Count of smaller elements`|||||     |     |     |     |
- |`Find Index`|||||     |     |     |     |
- |`Print Elements of Array`|||||     |     |     |     |
- |`Fascinating Number`|||||     |     |     |     |
- |`Compete the skills`|||||     |     |     |     |
- |`Swap kth elements`|||||     |     |     |     |
- |`Average in a stream`|||||     |     |     |     |
+ ## Geek For Geeks
+ |School|
+ |:-----|
+ |`Print alternate elements of an array`|
+ |`Sum of Series`|
+ |`Palindromic Array`|
+ |`Print 1 To N Without Loop`|
+ |`Perfect Arrays`|
+ |`Find the median`|
+ |`Armstrong Numbers`|
+ |`Sum of Array`|
+ |`Check for Binary`|
+ |`Count of smaller elements`|
+ |`Find Index`|
+ |`Print Elements of Array`|
+ |`Fascinating Number`|
+ |`Compete the skills`|
+ |`Swap kth elements`|
+ |`Average in a stream`|
 
+ | Basic |
+ |:------|
+ |`Search an Element in an array` |
 
+ | Easy |
+ |:------|
+ | `Missing number in array` |
+ | `Wave Array`             |
+ | `Bitonic Point`          |
+ | `Binary Search`      |
+
+ | Medium |
+ |:------|
+
+ | Hard |
+ |:------|
