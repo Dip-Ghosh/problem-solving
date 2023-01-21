@@ -52,6 +52,7 @@
   |`217. Contains Duplicate`|||
   |`268. Missing Number(FAANG)`|||
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
+  |`1920. Build Array from Permutation`|||
 
  ## Geek For Geeks
  |School|Basic|Easy|Medium|Hard|
