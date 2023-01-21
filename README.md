@@ -55,11 +55,11 @@
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||     |     |
 
 ## Geek For Geeks
- |School| Basic                                | Easy                      |Medium| Hard |
- |:-----|:----|:-----|:-----|:-----|
- |`Print alternate elements of an array`| `Search an Element in an array`      | `Missing number in array` |||     |     |
- |`Sum of Series`|| `Wave Array`                         |||     |     |     |
- |`Palindromic Array`|| `Bitonic Point`                      |||     |     |     |
+ |School| Basic                               | Easy                      |Medium| Hard |
+ |:------------------------------------|:----|:-----|:-----|:-----|
+ |`Print alternate elements of an array`| `Search an Element in an array`     | `Missing number in array` |||     |     |
+ |`Sum of Series`|| `Wave Array`                        |||     |     |     |
+ |`Palindromic Array`|| `Bitonic Point`                     |||     |     |     |
  |`Print 1 To N Without Loop`|||||     |     |     |     |
  |`Perfect Arrays`|||||     |     |     |     |
  |`Find the median`|||||     |     |     |     |
