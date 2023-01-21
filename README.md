@@ -1,7 +1,6 @@
 # Problem-solving
 
 ## FAANG Companies Questions
-
 |Problems| Company Name         |
 | :------|:---------------------|
 |`At least two greater elements`| `Amazon`             |
@@ -11,7 +10,6 @@
   ## Leet Code
 
  ### Database Problems
- 
   |Easy|Medium|Hard|
   | :------------ | :----------- | :-------- |
   |`175.Combine Two Tables`| `176.Second Highest Salary` |  |
