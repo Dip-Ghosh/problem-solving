@@ -10,10 +10,9 @@
  | `Wave Array`                    | `flipKard`,`Amazon`,`microsoft`,`Google`,`PTM` |
  | `Bitonic Point`                 | `flipKard`,`Amazon`,`microsoft`                |
 
-## LeetCode
+### LeetCode
 
-### Database Problems
-
+#### Database Problems
   |Easy|Medium| Hard |
   |:-----------------|:-----|:---------|
   |`175.Combine Two Tables`| `176.Second Highest Salary` ||     |     |
@@ -48,7 +47,6 @@
   |`1965.Employees With Missing Information`|||     |     |     |     |
 
 #### Data Strucre and Algorithm
-
   |Easy|Medium|Hard|
   |:-----|:-----|:---|
   |`217. Contains Duplicate(FAANG)`|||
@@ -57,9 +55,9 @@
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
 
  ## Geek For Geeks
- |School|
- |:-----|
- |`Print alternate elements of an array`|
+ |School| Basic                          |
+ |:-------------------------------|:---|
+ |`Print alternate elements of an array`| `Search an Element in an array`|
  |`Sum of Series`|
  |`Palindromic Array`|
  |`Print 1 To N Without Loop`|
@@ -76,19 +74,13 @@
  |`Swap kth elements`|
  |`Average in a stream`|
 
- | Basic |
- |:------|
- |`Search an Element in an array` |
 
- | Easy |
- |:------|
- | `Missing number in array` |
- | `Wave Array`             |
- | `Bitonic Point`          |
- | `Binary Search`      |
+ |Easy|Medium| Hard |
+ |:---|:-----|:-----|
+ | `Missing number in array`|
+ | `Wave Array`|
+ | `Bitonic Point` |
+ | `Binary Search` |
 
- | Medium |
- |:------|
 
- | Hard |
- |:------|
+ 
