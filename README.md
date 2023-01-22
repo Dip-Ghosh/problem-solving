@@ -53,6 +53,7 @@
   |`217. Contains Duplicate`|||
   |`268. Missing Number(FAANG)`|||
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
+  |`1470. Shuffle the Array`|||
   |`2011. Final Value of Variable After Performing Operations`|||
   |`2535. Difference Between Element Sum and Digit Sum of an Array`|||
 
