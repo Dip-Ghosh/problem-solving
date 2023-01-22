@@ -54,6 +54,7 @@
   |`268. Missing Number(FAANG)`|||
   |`448. Find All Numbers Disappeared in an Array(FAANG)`|||
   |`1470. Shuffle the Array`|||
+  |`1480. Running Sum of 1d Array`|||
   |`2011. Final Value of Variable After Performing Operations`|||
   |`2535. Difference Between Element Sum and Digit Sum of an Array`|||
 
