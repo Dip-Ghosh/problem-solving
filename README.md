@@ -58,6 +58,7 @@
   |`1512. Number of Good Pairs`|||
   |`1672. Richest Customer Wealth`|||
   |`2011. Final Value of Variable After Performing Operations`|||
+  |`2114. Maximum Number of Words Found in Sentences`|||
   |`2535. Difference Between Element Sum and Digit Sum of an Array`|||
 
  ## Geek For Geeks
