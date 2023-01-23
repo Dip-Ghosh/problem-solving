@@ -56,6 +56,7 @@
   |`1470. Shuffle the Array`|||
   |`1480. Running Sum of 1d Array`|||
   |`1512. Number of Good Pairs`|||
+  |`1672. Richest Customer Wealth`|||
   |`2011. Final Value of Variable After Performing Operations`|||
   |`2535. Difference Between Element Sum and Digit Sum of an Array`|||
 
