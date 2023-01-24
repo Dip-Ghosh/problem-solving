@@ -80,6 +80,7 @@
  |`Compete the skills`|
  |`Swap kth elements`|
  |`Average in a stream`|
+ |`Binary Search`|
 
 
  |Easy|Medium| Hard |
@@ -87,7 +88,7 @@
  | `Missing number in array`|
  | `Wave Array`|
  | `Bitonic Point` |
- | `Binary Search` |
+ |  |
  | `Array Subset of another array` |
 
 
