@@ -81,6 +81,7 @@
  |`Swap kth elements`|
  |`Average in a stream`|
  |`Binary Search`|
+ |`Reverse array in groups`|
 
 
  |Easy|Medium| Hard |
@@ -88,7 +89,6 @@
  | `Missing number in array`|
  | `Wave Array`|
  | `Bitonic Point` |
- |  |
  | `Array Subset of another array` |
 
 
