@@ -88,6 +88,7 @@
  | `Wave Array`|
  | `Bitonic Point` |
  | `Binary Search` |
+ | `Array Subset of another array` |
 
 
  
