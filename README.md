@@ -65,7 +65,7 @@
  |School| Basic                          |
  |:-------------------------------|:---|
  |`Print alternate elements of an array`| `Search an Element in an array`|
- |`Sum of Series`|
+ |`Sum of Series`|`First and last occurrences of x`|
  |`Palindromic Array`|
  |`Print 1 To N Without Loop`|
  |`Perfect Arrays`|
