@@ -10,10 +10,10 @@ class Solution {
   public:
     int binarysearch(int arr[], int n, int k) {
        
-       int left = 0;
+         int left = 0;
        int right = n-1;
        
-       while(left < right)
+       while(left <= right)
        {
            int mid = (left + right) /2;
            
@@ -23,6 +23,7 @@ class Solution {
            
            else left = mid + 1;
        }
+       
         return -1;
     }
 };
